@@ -106,6 +106,10 @@ section ul li:hover {
     border-radius: 50%;
 }
 
+#git_icon {
+    width: 32px;
+}
+
 /* ANIMAÇÃO ...................................................*/
 
 @keyframes deCima {
